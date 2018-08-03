@@ -30,6 +30,7 @@
 		<module>spring-boot-service-circuit-breaker-hystrix</module>
 		<module>spring-boot-service-kafka-stream</module>
 		<module>spring-boot-service-kafka-template</module>
+		<module>spring-boot-service-tracing-logstash-config</module>
 		<module>spring-boot-service-tracing-zipkin-server</module>
 		<module>spring-boot-service-tracing-zipkin-sleuth</module>
 		<module>spring-boot-service-rest-client-feign</module>
